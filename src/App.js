@@ -17,7 +17,7 @@ const PRODUCTS = [
 ];
 
 
-const API_KEY = "AIzaSyDu9aaYT3iFy0ezwgyQtezzGaaXtPf2ftQ"; 
+const API_KEY = "api"; 
 
 
 const ai = new GoogleGenAI({ apiKey: API_KEY });
